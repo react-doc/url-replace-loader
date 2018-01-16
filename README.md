@@ -5,7 +5,7 @@
       src="https://cdn.rawgit.com/webpack/media/e7485eb2/logo/icon.svg">
   </a>
   <h1>URL Replace Loader</h1>
-  <p>Loads files as `base64` encoded URL, [url-loader](https://github.com/webpack-contrib/url-loader) enhanced.</p>
+  <p>Loads files as `base64` encoded URL, <a href="https://github.com/webpack-contrib/url-loader">url-loader</a> enhanced.</p>
 </div>
 
 
