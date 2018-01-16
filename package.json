@@ -1,0 +1,27 @@
+{
+  "name": "url-replace-loader",
+  "version": "1.0.0",
+  "description": "url loader module for webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "loader-utils": "^1.0.2",
+    "mime": "^1.4.1",
+    "schema-utils": "^0.3.0"
+  },
+  "peerDependencies": {
+    "file-loader": "*"
+  },
+  "bugs": {
+    "url": "https://github.com/react-doc/url-replace-loader/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/react-doc/url-replace-loader.git"
+  },
+  "keywords": [],
+  "author": "kenny wong <wowohoo@qq.com>",
+  "license": "MIT"
+}
